@@ -4,3 +4,7 @@ httpd_port: 80
 httpd_user: apache
 httpd_group: apache
 domain: site.networkinc.tech
+packages:
+  - httpd
+  - php
+  - mariadb-server

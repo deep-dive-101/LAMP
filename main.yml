@@ -14,5 +14,7 @@
     - name: "Creating documentroot for virtualhost"
 
     - name: "Restarting Apache"
+   
+    - name: "Installing Mysql server"
 
-    
+    - name: "Restarting Mysql server" 
