@@ -3,6 +3,10 @@
   hosts: localhost
   tasks:
                                     
-    - name: "Apache"
-      debug:
-        msg: "Apache version {{httpd_version}} is running on {{httpd_port}}"
+    - name: "Installing Apache"
+  
+    - name: "Creating httpd.conf from template"
+
+    - name: "Restarting Apache"
+
+    
