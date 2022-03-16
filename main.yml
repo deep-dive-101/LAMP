@@ -1,0 +1,8 @@
+---
+- name: "Variables"
+  hosts: localhost
+  tasks:
+                                    
+    - name: "Apache"
+      debug:
+        msg: "Apache version {{httpd_version}} is running on {{httpd_port}}"
