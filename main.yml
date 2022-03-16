@@ -16,5 +16,7 @@
     - name: "Restarting Apache"
    
     - name: "Installing Mysql server"
+    
+    - name: "Creating my.cnf from template file"
 
     - name: "Restarting Mysql server" 
