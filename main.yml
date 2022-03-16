@@ -4,6 +4,8 @@
   tasks:
                                     
     - name: "Installing Apache"
+
+    - name: "Installing php"
   
     - name: "Creating httpd.conf from template file"
 
