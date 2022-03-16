@@ -5,7 +5,11 @@
                                     
     - name: "Installing Apache"
   
-    - name: "Creating httpd.conf from template"
+    - name: "Creating httpd.conf from template file"
+
+    - name: "Creating virtualost from template file"
+
+    - name: "Creating documentroot for virtualhost"
 
     - name: "Restarting Apache"
 

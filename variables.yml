@@ -1,4 +1,6 @@
 ---
 
 httpd_port: 80
-httpd_version: 2.4
+httpd_user: apache
+httpd_group: apache
+domain: site.networkinc.tech
