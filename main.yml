@@ -23,4 +23,6 @@
 
     - name: "Restarting Mysql server"
 
-    - name: "Adding user" 
+    - name: "Adding user"
+
+    - name: "Updating user login" 
