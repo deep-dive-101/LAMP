@@ -21,4 +21,6 @@
 
     - name: "Updating mysql root password"
 
-    - name: "Restarting Mysql server" 
+    - name: "Restarting Mysql server"
+
+    - name: "Adding user" 
