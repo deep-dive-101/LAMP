@@ -19,4 +19,6 @@
     
     - name: "Creating my.cnf from template file"
 
+    - name: "Updating mysql root password"
+
     - name: "Restarting Mysql server" 
